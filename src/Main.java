@@ -3,8 +3,8 @@ import javax.swing.*;
 public class Main {
     public static void main(String[] args) {
 
-        int boardWidth = 360;
-        int boardHeight = 640;
+        int boardWidth = 560;
+        int boardHeight = 740;
 
         JFrame frame = new JFrame("Flappy Bird");
         //frame.setVisible(true);
